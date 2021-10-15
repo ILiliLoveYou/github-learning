@@ -1,3 +1,8 @@
 When you create a repository with content on GitHub, GitHub creates the repository with a single branch. 
 This first branch in the repository is the default branch. 
 The default branch is the branch that GitHub displays when anyone visits your repository.
+
+Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository.
+You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository. 
+You can then work on this new branch in isolation from changes that other people are making to the repository. 
+A branch you create to build a feature is commonly referred to as a feature branch or topic branc
